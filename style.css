@@ -1,0 +1,133 @@
+nav {
+    text-align: right;
+}
+
+.nav-item {
+    text-decoration: none;
+}
+
+.nav-space {
+    margin-right: 10px;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+section {
+    text-align: center;
+    margin-top: 120px;
+    align-content: center;
+}
+
+.seacrh-bar {
+    width: 500px;
+    height: 30px;
+    border: none;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.button {
+    margin: 30px;
+}
+
+button {
+    background-color: #f2f2f2;
+    color: #5F6368;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 10px;
+    line-height: 27px;
+    height: 36px;
+}
+
+.search-button {
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.lucky-button {
+    width: 250px;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 20px;
+}
+
+footer {
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+    background-color: lightgrey;
+    margin: none;
+    left: 0;
+    color: rgba(0, 0, 0, .54);
+}
+
+.search-area {
+    text-align: center;
+    line-height: 45px;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    outline: none;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: gray;
+    ;
+}
+
+.x {
+    display: inline-block;
+    width: 600px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    height: 60px;
+}
+
+.footer1 {
+    padding: 10px;
+    line-height: 20px;
+    border-top: 1px gray solid;
+    border-bottom: 1px gray solid;
+}
+
+.footer2 {
+    width: 80%;
+    color: rgba(0, 0, 0, .54);
+}
+
+.footer2and3 {
+    display: flex;
+    line-height: 30px;
+    color: rgba(0, 0, 0, .54);
+}
+
+.footer3 {
+    text-align: right;
+    color: rgba(0, 0, 0, .54);
+    width: 18%;
+}
+
+.language {
+    color: gray;
+    margin-top: 10px;
+    padding: none;
+}
+
+.voice-img {
+    margin-top: 13px;
+}
+
+.search-img {
+    margin-top: 8px;
+}
